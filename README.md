@@ -22,14 +22,14 @@ II Item-4<br>
 ---: right align<br>
 creating drop down
 <details>
-   <summary> click for Hidden contents </summary>
+   <summary> click for Hidden contents </summary><br>
 -Hidden contents goes here...
 </details>
-<b></b>Example: club Guide<br>
-#### Photography clip Guide
-##### About the Guide
-#### The photography club helps members learn photography techiques , share ideas <br> 
-#### Membership<br>
+<b>Example: club Guide</b><br>
+<b> Photography clip Guide</b> 
+<b> About the Guide</b> 
+<b> The photography club helps members learn photography techiques , share ideas </b> <br> 
+<b> Membership</b> <br>
 <p>
 open to all students 
 Attend atleast one </p>
