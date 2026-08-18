@@ -25,7 +25,7 @@ creating drop down
    <summary> click for Hidden contents </summary>
 -Hidden contents goes here...
 </details>
-# Example: club Guide<br>
+<b></b>Example: club Guide<br>
 #### Photography clip Guide
 ##### About the Guide
 #### The photography club helps members learn photography techiques , share ideas <br> 
@@ -42,10 +42,10 @@ Attend atleast one </p>
 ## Objective
 ###### Organize a neighbourhood cleaning to improve the local environment
 ## Schedule
-|Time    | Activity |
    
-| 9.00 am| Registration    |
+|Time    | Activity | 
 | --- | --- |
+| 9.00 am| Registration    |
 |9.30    | Safety briefing |
 |10.00 am| Cleanup begins  |
 |12.00 pm| Refreshments    |
