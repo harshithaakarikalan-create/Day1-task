@@ -52,10 +52,10 @@ Attend atleast one </p>
 # Volunteer Checklist<br>
 Creading Dropdown<br>
 <details>
- <summary>-[] Register Participants
-          -[] Distribute gloves and bass
-          -[] Design cleanup zones
-          -[] Collect waste </summary>
-# Emergency Contact
-#### Call the event coordinator if assistance is need
+ <summary>-[] Register Participants<br>
+          -[] Distribute gloves and bass<br>
+          -[] Design cleanup zones<br>
+          -[] Collect waste<br> </summary>
+<b> Emergency Contact</b><br>
+<b> Call the event coordinator if assistance is need </b><br>
 </details
