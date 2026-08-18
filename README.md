@@ -1,4 +1,4 @@
-#Demo for Markdown<br>
+<Demo for Markdown<br>
 ##Welcome to GitHub Class<br>
 ###This is our Day 3 class<br>
 <p.align="center"><br>
@@ -16,7 +16,12 @@ II Item-4<br>
 ! [cat] (https://www.amazon.in/Cute-Kitten-Poster-Decoration-Unframed/dp/B0CLVQBFCW?s=bazaar)
 <br>
 |Name|Age|Qualification|<br>
-|xxx|yyy|zzz|
-:---left align
-:---: center align
-
+|xxx|yyy|zzz|<br>
+:---left align<br>
+:---: center align<br>
+---: right align<br>
+creating drop down
+<details></details>
+<summary> click for Hidden contents </summary>
+-Hidden contents goes here...
+</details>
