@@ -15,7 +15,9 @@ II Item-4<br>
 -[X] watching file <br>
 ! [cat] (https://www.amazon.in/Cute-Kitten-Poster-Decoration-Unframed/dp/B0CLVQBFCW?s=bazaar)
 <br>
-|Name|Age|Qualification|<br>
+   
+|Name|Age|Qualification|
+| --- | --- |
 |xxx|yyy|zzz|<br>
 :--- left align<br>
 :---: center align<br>
