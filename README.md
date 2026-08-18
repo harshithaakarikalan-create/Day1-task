@@ -25,3 +25,7 @@ creating drop down
    <summary> click for Hidden contents </summary>
 -Hidden contents goes here...
 </details>
+#Example: club Guide<br>
+#### Photography clip Guide
+###### About the Guide
+#### The photography club helps members learn photography
