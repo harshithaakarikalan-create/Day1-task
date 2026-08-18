@@ -1,7 +1,7 @@
 # Demo for Markdown<br>
 ## Welcome to GitHub Class<br>
 ### This is our Day 3 class<br>
-<p.align="center"><br>
+<p align="center"><br>
 <b> Hello World </b><br>
 <i> This is example for italices </i><br>
 <del>  Have entered wrong text </d><br>
@@ -17,7 +17,7 @@ II Item-4<br>
 <br>
 |Name|Age|Qualification|<br>
 |xxx|yyy|zzz|<br>
-:---left align<br>
+:--- left align<br>
 :---: center align<br>
 ---: right align<br>
 creating drop down
