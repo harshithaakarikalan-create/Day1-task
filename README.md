@@ -1,6 +1,6 @@
-#Demo for Markdown<br>
-##Welcome to GitHub Class<br>
-###This is our Day 3 class<br>
+# Demo for Markdown<br>
+## Welcome to GitHub Class<br>
+### This is our Day 3 class<br>
 <p.align="center"><br>
 <b> Hello World </b><br>
 <i> This is example for italices </i><br>
@@ -27,5 +27,10 @@ creating drop down
 </details>
 #Example: club Guide<br>
 #### Photography clip Guide
-###### About the Guide
-#### The photography club helps members learn photography
+##### About the Guide
+#### The photography club helps members learn photography techiques , share ideas <br> 
+#### Membership<br>
+<p>
+open to all students 
+Attend atleast one </p>
+[git-hub] [
