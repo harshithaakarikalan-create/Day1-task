@@ -25,11 +25,11 @@ creating drop down
    <summary> click for Hidden contents </summary><br>
 -Hidden contents goes here...
 </details>
-<b>Example: club Guide</b><br>
-<b> Photography clip Guide</b> 
-<b> About the Guide</b> 
-<b> The photography club helps members learn photography techiques , share ideas </b> <br> 
-<b> Membership</b> <br>
+# <b>Example: club Guide</b><br>
+#### <b> Photography clip Guide</b> 
+#### <b> About the Guide</b> 
+#### <b> The photography club helps members learn photography techiques , share ideas </b> <br> 
+#### <b> Membership</b> <br>
 <p>
 open to all students 
 Attend atleast one </p>
