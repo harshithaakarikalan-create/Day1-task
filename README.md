@@ -37,11 +37,11 @@ Attend atleast one </p>
 [git-hub] ["https://github.com" "Click tile")<br>
 <mark> This is example for highlithing text </mark>
 <a> heef = "www.google.com"> click here to go to google </a><br>
-# Example Event Planning Guide<br>
-# Community Cleanup Event<br>
-## Objective<br>
-###### Organize a neighbourhood cleaning to improve the local environment<br>
-## Schedule<br>
+#  Example Event Planning Guide<br>
+#  Community Cleanup Event<br>
+##  Objective<br>
+######  Organize a neighbourhood cleaning to improve the local environment<br>
+##  Schedule<br>
    
 |Time    | Activity | 
 | --- | --- |
