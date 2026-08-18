@@ -21,7 +21,7 @@ II Item-4<br>
 :---: center align<br>
 ---: right align<br>
 creating drop down
-<details></details>
+<details>
    <summary> click for Hidden contents </summary>
 -Hidden contents goes here...
 </details>
