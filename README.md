@@ -34,5 +34,5 @@ creating drop down
 open to all students 
 Attend atleast one </p>
 [git-hub] ["https://github.com")<br>
-[git-hub] ["https://github.com" "Click tile")
+[git-hub] ["https://github.com" "Click tile")<br>
 <mark> This is example for highlithing text </mark>
