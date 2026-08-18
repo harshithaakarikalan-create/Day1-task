@@ -1,10 +1,10 @@
-#Demo for Markdown
-##Welcome to GitHub Class
-###This is our Day 3 class
-<p.align="center">
-<b> Hello World </b>
-<i> This is example for italices </i>
-<del>  Have entered wrong text </d>
+#Demo for Markdown<br>
+##Welcome to GitHub Class<br>
+###This is our Day 3 class<br>
+<p.align="center"><br>
+<b> Hello World </b><br>
+<i> This is example for italices </i><br>
+<del>  Have entered wrong text </d><br>
 <hr>
 * Item-1<br>
 * Item-2<br>
